@@ -1,0 +1,58 @@
+---
+layout: default
+title: Assistive Powder Board
+nav_order: 5
+---
+
+# Assistive Powder Board
+
+The Assistive Powder Board is a powder board designed to motivate young users to do their physical therapy exercises.
+
+Throughout this project, I learned to design for a client, woodwork with power tools, electronic assembly, and general construction.
+
+![Assistive Powder Board](https://lh3.googleusercontent.com/sitesv/APaQ0STUkSjipDqeSvORYDSOQ9yM53YT5wpWVu5Z_1EPsV4KgoEFbISYycgEzsiZlSZ2lpMF6XjfHo4LFhsAq_OMEemqNohZ-x4GAhmbRjlXW55k06cu2p7US6UTrb7qnWT6cmlkrCuWfBdAx-Cz_MpY5uiC9Z_eox0uy1PHt0i0ACVTLD2YevSY0313f_fP9WwJYKIGUUVnggUSABxd5sYNh2qPNNwwDp-Ko5xREcs=w1280)
+
+---
+
+## What is a Powder Board?
+
+A powder board is an exercise table used by physical therapists for their patients to rehabilitate them and improve leg mobility. A common user of the powder board are wheelchair users. It is not healthy for them to be sitting in their chairs all the time, and it is extremely beneficial for them to be able to move their legs as much as they can.
+
+### If powder boards already exist, then what's the problem?
+
+Powder boards are expensive. It is a common theme that large medical companies prey on people who have no choice but to purchase their overpriced product. These simple boards can cost anywhere from $300 to $6000. Moreover, physical therapy is difficult and boring for the patient. Especially for our target user, children in wheelchairs.
+
+![Existing Powder Board](https://lh3.googleusercontent.com/sitesv/APaQ0SRVMVbIp5VDNpD5vYo6FTnSDS2_-b1jdzEWV2831iCgmdGCigsZDOGZNiSNEcEmLerUQVz612uzyVFI2nGhUhh2zFiVOvEbCXu1D7yQiuXuj4LMocJkDvw2ve86t3Ov9_czwqVYl2zjKCgGEoSMbM6C_vrBzv65dsjhcfXSckKE5VdC9tRL3oxZgzvEXAYleEkO1qILldfjld3beo_IuDAimrg90QmRX7Co=w1280)
+
+---
+
+## The Solution?
+
+Make a custom powder board that is cheap and rewarding to use.
+
+Our first idea was to build a skateboard-like object laden with lights, satisfying noises, and songs that activated upon detecting movement. We posited that the patient could put their leg up on the board and roll the skateboard back and forth.
+
+![Concept Sketch](https://lh3.googleusercontent.com/sitesv/APaQ0SRKJ_cCGjmCRjPUytX6DXyEwAen2-Lt2OT9OTNBv2ud87DpQDeKpLMh_CFGJRt_7vkqdRJHBu_l7oROskPrSZBUXUbyDBVpnhw7kTH2c7tor9eHJb1bjHNMl_iVxPMiebY7RWGN7QMlHf_-cAx18MzyZvuN_B4sNY7ckeje6vd1FcLpf8wazIL7g0IVxPSafz4O319kxbAsxklUjb3ZCTSeabjN4he7gdQx=w1280)
+
+### First Concept Design
+
+![First Concept](https://lh3.googleusercontent.com/sitesv/APaQ0SRidLg4ow50QAh2Xn26NSeXgOV1a1A21oiReMCDmxznQxZWGd_xR8xSXBS_6gDG5DPtOi8O_uvZ62xrbfWiF-8RJ-On1l8FCOCytzflLS1MHwolHMxhPXAQPf9F36s1NTAqgmMPCn3uZTHsUgDqyLrGo7hehdB3UG3fQTGIO2Sf1gmHchhBXFKr5vqiO0v0mTzDVPQ3fBL6Mtwaon9Qw1vI-1p-VNrLtBV-hRg=w1280)
+
+### Meeting Our Client
+
+However after consulting our client online, we decided to opt for a different solution, shown two pictures above. We designed a table with holes for infrared sensors, and an omnidirectional skate like a traditional powderboard.
+
+![Proof of Concept](https://lh3.googleusercontent.com/sitesv/APaQ0SRKmQKiz7Bvpl3SjvvWq_3EybkZWHoqGoWMPwWh5cDlxHhjgIDB22ltPa6KAI2bn8aKW1SeWBqht-b4XD6iMQWdCu7yhcOzmMwgiB_UQ-E8BEZGjlamuOTkGT1x3biQw1j_TF62CZeAN1yswM_BIsHv9ZSiA7Ep4TlT1AjnGZT_eQJs8LX3-Gj1JYQal_s1vtRcKdoi24068fwzoJ2nnPoIpMSFtE5W6dYlrtY=w1280)
+*Proof of Concept*
+
+![Woodworking](https://lh3.googleusercontent.com/sitesv/APaQ0SR9PUC4i2K9v5rqgZVWIuY4mKB94eyb-IGaoUmq-oK6jNqszWJriUBSrXF_R2BbbOirgKwvurO5ilbX_irTXLrCmAupNGaOLlAMUEsbcGy5jUeejaLhm8AgUQfougywLHySb-KH8QkuzyDRhG_RWI64S9Ei3JsTRlU5IjdJ-GRvwsWlcJMUNQcNiCh7B8WWjv1e5thxYNrEZqMx5fFRsfId6-AEGjcL67wN-2w=w1280)
+*Woodworking the Board*
+
+![Wiring](https://lh3.googleusercontent.com/sitesv/APaQ0SR0eAOWmDap85Le7k5iVDH_9mc5-g84f6L64PJMpQ1i-XEu-R8WZR1ojI_q_uJxH9RkHUYOC4wdAVwdultNByuOzRV59Zdtv_Lfao8YX9oJvot0HOoM82MtIdOmoOBpNtvLxBjJw4Ipll4T81BpOgF5H_u93pBNV89_qfnwirOErsX5NJ_62cTc-LWgs1Rkz5c7n_mHAeSvInHsw6qj292PRXT3jyKMvUADi1k=w1280)
+*Wiring the Board*
+
+![Final Assembly](https://lh3.googleusercontent.com/sitesv/APaQ0SSuvYPupNLb_3c79utdFZxJLRcxBU50PrGpOiOJNuiW9l8SuqSVTkn7Mnc9T5oyyW8v3Plt3w_ovjuGaoGep_Rk36-5DXpoC7U4UKXCR4OgtMxqTCrggIqdPMe_-Us-vqT3WzwXwtaL8NNShUISSSkbcCu_WknsEzP7n21KvonbU3ZjrVGUedy81ZVgGe3dnI7DJYaa23-bAM1Yny7rG6twVq-iPUq847baYCo=w1280)
+
+### Final Demonstration
+
+📹 *Final demo video (Google Drive)*
